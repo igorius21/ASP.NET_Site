@@ -1,0 +1,27 @@
+﻿@model LoginView
+<div>
+    <h1>Вход в кабинет</h1>
+    <div class="box">
+        <form asp-area="" asp-controller="Account" asp-action="Login" method="post" asp-route-returnUrl="@ViewBag.returnUrl">
+            <div asp-validation-summary="All"></div>
+            <div>
+                <label asp-for="AdminName"></label>
+                <input asp-for="AdminName" />
+                <span asp-validation-for="AdminName"></span>
+            </div>
+            <div>
+                <label asp-for="AdminPassword"></label>
+                <input asp-for="AdminPassword" />
+                <span asp-validation-for="AdminPassword"></span>
+            </div>
+            <div>
+                <label asp-for="AdminRemember"></label>
+                <input asp-for="AdminRemember" />
+                <span asp-validation-for="AdminRemember"></span>
+            </div>
+            <div>
+                <input type="submit" value="Войти" />
+            </div>
+        </form>
+    </div>
+</div>

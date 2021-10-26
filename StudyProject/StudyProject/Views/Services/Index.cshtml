@@ -1,0 +1,28 @@
+﻿@model IQueryable<MyService>
+@{
+    Text textLocal = ViewBag.TextField;
+
+    ViewBag.Title = textLocal.MetaTitle;
+    ViewBag.Description = textLocal.MetaDiscription;
+    ViewBag.Keywords = textLocal.MetaKeyword;
+}
+
+<div>
+    @if (Model.Any())
+    {
+        <ul class="big-image-list">
+            @foreach (MyService count in Model)
+            {
+            <li>
+                <a asp-area="" asp-controller="Services" asp-action="Index" asp-route-id="@count.Id">
+                    <img src="~/images/@count.Image" alt="" class="left" />
+                </a>
+                <a asp-area="" asp-controller="Services" asp-action="Index" asp-route-id="@count.Id">
+                    <h2>@count.Title</h2>
+                </a>
+                    <h4>@count.Subtitle</h4>
+            </li>
+            }
+        </ul>
+    }
+</div>

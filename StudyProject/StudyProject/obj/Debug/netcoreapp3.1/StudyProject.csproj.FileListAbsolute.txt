@@ -1,0 +1,831 @@
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.exe
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.deps.json
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.runtimeconfig.json
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.runtimeconfig.dev.json
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.pdb
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.csprojAssemblyReference.cache
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.AssemblyInfo.cs
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\staticwebassets\StudyProject.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\staticwebassets\StudyProject.StaticWebAssets.xml
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.pdb
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.genruntimeconfig.cache
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.TagHelpers.input.cache
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.TagHelpers.output.cache
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorCoreGenerate.cache
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SidebarPartial.cshtml.g.cs
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\ViewImports.cshtml.g.cs
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorTargetAssemblyInfo.cs
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.csproj.CopyComplete
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.Views.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.Views.pdb
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.Views.pdb
+C:\Users\user\source\repos\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\appsettings.production.json
+C:\Users\user\source\repos\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\appsettings.staging.json
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.AssemblyInfo.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorAssemblyInfo.cache
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorAssemblyInfo.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.pdb
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\appsettings.production.json
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\appsettings.staging.json
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.exe
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.deps.json
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.runtimeconfig.json
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.runtimeconfig.dev.json
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.pdb
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.Views.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.Views.pdb
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\staticwebassets\StudyProject.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\staticwebassets\StudyProject.StaticWebAssets.xml
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\StudyProject.styles.css
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.TagHelpers.input.cache
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.TagHelpers.output.cache
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorCoreGenerate.cache
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SidebarPartial.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.Views.pdb
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.csproj.CopyComplete
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.genruntimeconfig.cache
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TextAdd\Edit.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceAdd\Edit.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Services\Index.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Services\Show.cshtml.g.cs
+C:\Users\Asus\Downloads\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\appsettings.production.json
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\appsettings.staging.json
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.exe
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.deps.json
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.runtimeconfig.json
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.runtimeconfig.dev.json
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.pdb
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.Views.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.Views.pdb
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.csprojAssemblyReference.cache
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.AssemblyInfoInputs.cache
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.AssemblyInfo.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.csproj.CoreCompileInputs.cache
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.MvcApplicationPartsAssemblyInfo.cache
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorAssemblyInfo.cache
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorAssemblyInfo.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\staticwebassets\StudyProject.StaticWebAssets.Manifest.cache
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\staticwebassets\StudyProject.StaticWebAssets.xml
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\StudyProject.styles.css
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.TagHelpers.input.cache
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.TagHelpers.output.cache
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorCoreGenerate.cache
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceAdd\Edit.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TextAdd\Edit.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Services\Index.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Services\Show.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SidebarPartial.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorTargetAssemblyInfo.cache
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorTargetAssemblyInfo.cs
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.Views.pdb
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.csproj.CopyComplete
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.dll
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.pdb
+D:\еще одна копия\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.genruntimeconfig.cache
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\appsettings.production.json
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\appsettings.staging.json
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.exe
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.deps.json
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.runtimeconfig.json
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.runtimeconfig.dev.json
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.pdb
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.Views.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.Views.pdb
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.csprojAssemblyReference.cache
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.AssemblyInfoInputs.cache
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.AssemblyInfo.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.csproj.CoreCompileInputs.cache
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.MvcApplicationPartsAssemblyInfo.cache
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorAssemblyInfo.cache
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorAssemblyInfo.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\staticwebassets\StudyProject.StaticWebAssets.Manifest.cache
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\staticwebassets\StudyProject.StaticWebAssets.xml
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\StudyProject.styles.css
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.TagHelpers.input.cache
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.TagHelpers.output.cache
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorCoreGenerate.cache
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceAdd\Edit.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TextAdd\Edit.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Services\Index.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Services\Show.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SidebarPartial.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorTargetAssemblyInfo.cache
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorTargetAssemblyInfo.cs
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.Views.pdb
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.csproj.CopyComplete
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.dll
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.pdb
+D:\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.genruntimeconfig.cache
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\appsettings.production.json
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\appsettings.staging.json
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.exe
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.deps.json
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.runtimeconfig.json
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.runtimeconfig.dev.json
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.pdb
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.Views.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\StudyProject.Views.pdb
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.csprojAssemblyReference.cache
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.AssemblyInfoInputs.cache
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.AssemblyInfo.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.csproj.CoreCompileInputs.cache
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorAssemblyInfo.cache
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorAssemblyInfo.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\staticwebassets\StudyProject.StaticWebAssets.Manifest.cache
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\staticwebassets\StudyProject.StaticWebAssets.xml
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\StudyProject.styles.css
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.TagHelpers.input.cache
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.TagHelpers.output.cache
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorCoreGenerate.cache
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceAdd\Edit.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TextAdd\Edit.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Services\Index.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Services\Show.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorTargetAssemblyInfo.cache
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.RazorTargetAssemblyInfo.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.Views.pdb
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.csproj.CopyComplete
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.dll
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.pdb
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\StudyProject.genruntimeconfig.cache
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\PageContacts.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\PageIndex.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Css.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Metatags.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Scripts.cshtml.g.cs
+C:\Новая папка\последняя копия надеюсь\StudyProject\StudyProject\StudyProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Sidebar.cshtml.g.cs

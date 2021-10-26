@@ -1,0 +1,31 @@
+﻿<!DOCTYPE HTML>
+
+<html>
+<head>
+    @await Html.PartialAsync("Metatags") 
+    @await Html.PartialAsync("Css")
+</head>
+<body>
+    <div id="page-wrapper">
+
+        @await Html.PartialAsync("Header")
+        <div id="main">
+            <div class="container">
+                <div class="row main-row">
+                    <div class="col-8 col-12-medium">
+                        @RenderBody()
+
+                    </div>
+                    @await Html.PartialAsync("Sidebar")
+                </div>
+            </div>
+        </div>
+
+        @await Html.PartialAsync("Footer")
+
+    </div>
+
+    @await Html.PartialAsync("Scripts")
+
+</body>
+</html>

@@ -1,0 +1,48 @@
+﻿@model IQueryable<MyService>
+@{
+    string adminPanel = "Панель администратора";
+    ViewBag.Title = adminPanel;
+}
+
+<div>
+    <h2>@adminPanel</h2>
+    <div>
+        <h3>Услуги компании</h3>
+        <div class="box">
+            <a asp-area="Admin" asp-controller="ServiceAdd" asp-action="Edit" asp-route-id="">Добавить услугу</a>
+        </div>
+        @if (Model.Any())
+        {
+            <div>
+                @foreach (MyService count in Model)
+                {
+                    <div>
+                        <a asp-area="Admin" asp-controller="ServiceAdd" asp-action="Edit" asp-route-id="@count.Id">редактировать</a>
+                        |
+                        <form style="display: inline-block;" id="form-@count.Id" asp-area="Admin" asp-controller="ServiceAdd" asp-action="Delete" method="post">
+                            <input type="hidden" name="id" value="@count.Id">
+                            <a href="#" onclick="document.getElementById('form-@count.Id').submit();">удалить</a>
+                        </form>
+                        |
+                        <a asp-area="" asp-controller="Services" asp-action="Index" asp-route-id="@count.Id">
+                            @($"{count.Title}")
+                        </a>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+    <div class="box">
+        <h3>Редактировать страницы</h3>
+        <a asp-area="Admin" asp-controller="TextAdd" asp-action="Edit" asp-route-keyWord="PageIndex">Главная</a>
+        <a asp-area="Admin" asp-controller="TextAdd" asp-action="Edit" asp-route-keyWord="PageContacts">Контакты</a>
+    </div>
+    <div class="box">
+        <form asp-area="" asp-controller="Account" asp-action="Logout" method="post">
+            <input type="submit" value="Выйти" />
+        </form>
+    </div>
+</div>
+
+
+

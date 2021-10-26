@@ -1,0 +1,13 @@
+﻿@model Text
+@{
+    ViewBag.Title = Model.MetaTitle;
+    ViewBag.Description = Model.MetaDiscription;
+    ViewBag.Keywords = Model.MetaKeyword;
+}
+
+<div>
+    @Html.Raw(Model.MyText)
+</div>
+<div>
+    <img class="img-block" src="~/images/@Model.Image" />
+</div>
